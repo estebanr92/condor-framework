@@ -3,7 +3,6 @@ engines:
     enabled: true
     channel: "eslint-3"
     config:
-        config: ./.eslintrc
         extensions:
         - .es6
         - .js
