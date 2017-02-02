@@ -7,3 +7,7 @@ engines:
         extensions:
         - .es6
         - .js
+
+ratings:
+   paths:
+   - "**.js"
